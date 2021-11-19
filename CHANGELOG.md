@@ -1,5 +1,11 @@
 # @primer/primitives
 
+## 7.1.1
+
+### Patch Changes
+
+- [#273](https://github.com/primer/primitives/pull/273) [`5c8d9a9`](https://github.com/primer/primitives/commit/5c8d9a99fca308bc23ba03e29a2a8ef2eef947fa) Thanks [@Juliusschaeper](https://github.com/Juliusschaeper)! - Border improvements
+
 ## 7.1.0
 
 ### Minor Changes
